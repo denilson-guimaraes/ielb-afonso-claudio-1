@@ -14,7 +14,6 @@ function btnMenu(e,i) {
 
 // Dá a funcionalidade de abrir os links
 function socialMediaLink(e){
-   console.log()
    for (let className of e.classList) {
       switch(className){
          case 'facebook': window.open('https://www.facebook.com/IELBAfonsoclaudio') 
