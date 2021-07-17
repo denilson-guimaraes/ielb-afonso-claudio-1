@@ -9,8 +9,6 @@ function btnMenu(e,i) {
    }else{
       element.classList.remove("activeMenu")
    }
-
-   console.log()
 }
 
 
